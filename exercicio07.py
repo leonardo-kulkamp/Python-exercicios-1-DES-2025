@@ -9,10 +9,12 @@ nota01 = int(input("Digite sua nota da primeira avaliaçao "))
 nota02 = int(input("Digite sua nota da segunda avaliaçao "))
 nota03 = int(input("Digite sua nota da terceira avaliaçao "))
 
-media = (nota01 + nota02 + nota03)
+media = nota01 + nota02 + nota03 / 3
+
 if media >= 7:
-    print("Você foi aprovado")
+    print("Aprovado")
 elif media >= 5:
-    print("Você esta em treinamento")
+    print("Em treinamento")
 else:
-    print("Você foi reprovado")
+    print("Reprovado")
+#Finalizado

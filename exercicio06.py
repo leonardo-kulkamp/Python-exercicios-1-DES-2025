@@ -2,10 +2,9 @@
 # O programa deve receber a hora atual (formato 24h) e informar se o acesso é permitido.
 
 hora_atual = int(input("Digite a hora atual "))
-hora = hora_atual
-if hora_atual <= 9:
+
+if hora_atual > 9 < 21:
     print("Acesso permitido")
-elif hora_atual > 21:
-    print("Acesso negado")
 else:
-    print("Acesso permitido")
+    print("Acesso negado")
+#Finalizado
