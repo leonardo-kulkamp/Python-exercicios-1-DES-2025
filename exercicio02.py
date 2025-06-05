@@ -2,6 +2,15 @@
 # para finalizar três tarefas: X, Y e Z.
 #  Se alguma tarefa estiver com o tempo de entrega negativo, deve-se exibir uma mensagem de 
 # erro e não somar o total.
-tempoentrega= int(input("Digite o tempo de entrega "))
-if tempoentrega < 0:
-    print("Erro")
+dia_01 = int(input("Dias para atividade 01 "))
+dia_02 = int(input("Dias para atividade 02 "))
+dia_03 = int(input("Dias para atividade 03 "))
+
+soma = dia_01 + dia_02 + dia_03
+if dia_01 < 0 or dia_02 < 0 or dia_03 < 0:
+    print("Erro, numero negativo!")
+else:
+    soma = dia_01 + dia_02 + dia_03
+    print(F"Tempo total do projeto): {soma} dias")
+
+#Finalizado
