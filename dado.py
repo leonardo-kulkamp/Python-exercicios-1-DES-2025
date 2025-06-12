@@ -1,3 +1,4 @@
+
 import random
 
 input ("Pressione o enter para lançar o dado ")
