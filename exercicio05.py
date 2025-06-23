@@ -5,4 +5,5 @@ if consumomensal > 100:
     print("Seu consumo ultrapassou os 100 gb permitidos")
 else:
     print("Consumo adequado")
+
 #Finalizado
