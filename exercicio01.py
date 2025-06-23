@@ -13,4 +13,4 @@ elif curso01 > curso02:
 else:
     print("O curso 02 e maior")
     
-    #Finalizado
+#Finalizado
