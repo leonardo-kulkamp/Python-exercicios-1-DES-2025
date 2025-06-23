@@ -8,4 +8,4 @@ if salario > 3000:
 else:
     print("Seu salario nao cumpre o criterio")
 
-#Finalizado
+ #Finalizado
