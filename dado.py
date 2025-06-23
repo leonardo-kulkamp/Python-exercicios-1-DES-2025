@@ -12,3 +12,5 @@ if resultado == 6:
     
 if resultado <= 2:
     print("Tente novamente")
+
+#Finalizado
