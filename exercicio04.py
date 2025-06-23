@@ -13,5 +13,6 @@ elif vmedia >= 5:
     print("Velocidade moderada")
 else:
     print("Velocidade rapida")
+
 #Finalizado
 
