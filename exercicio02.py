@@ -13,4 +13,4 @@ else:
     soma = dia_01 + dia_02 + dia_03
     print(F"Tempo total do projeto): {soma} dias")
 
-#Finalizado
+ #Finalizado
