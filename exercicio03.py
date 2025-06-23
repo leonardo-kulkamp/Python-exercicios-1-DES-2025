@@ -6,4 +6,4 @@ if umidade >= 70:
 else:
     print("A umidade esta dentro do padrao")
 
-#Finalizado
+ #Finalizado
