@@ -14,4 +14,4 @@ elif compra > 300:
 else:
     print("Você nao tem desconto")
 
-#Finalizado
+ #Finalizado
