@@ -14,3 +14,5 @@ v2 = int(input("Digite o segundo valor "))
 print("A soma dos valores é: " , soma(v1,v2))
 
 bem_vindo()
+
+#Finalizado
